@@ -29,7 +29,9 @@ To get started with this project, clone this repository and import the SQL scrip
 After setting up your database, you can execute the provided SQL queries to analyze data, manage inventory, and simulate the recommendation system. For detailed instructions on how to use each SQL script, refer to the documentation inside the SQL Scripts folder.
 
 **Contribution**
+
 Contributions to this project are welcome. To discuss potential improvements or submit a pull request, please refer to the contributing guidelines or contact the project maintainers.
 
 **License**
+
 This project is licensed under the MIT License - see the LICENSE.md file for details.
